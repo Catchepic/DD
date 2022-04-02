@@ -1,5 +1,7 @@
-import java.util.*;
+import java.util.*
 class student{
-  private String name;
-  private String address;
+      private string name;
+      private string address;
+      private string email;
+      private String telephone;   //新增电话属性
 }
